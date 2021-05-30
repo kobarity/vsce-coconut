@@ -20,6 +20,10 @@ A basic [Coconut language](https://github.com/evhub/coconut) support for [Visual
 
 Initial release.
 
+### 1.0.1
+
+Fix Markdown fenced code block grammar injection.
+
 ## Contributing
 
 Please [open a new issue](https://github.com/kobarity/vsce-coconut/issues/new) if you find a problem. Pull requests are also welcome.
