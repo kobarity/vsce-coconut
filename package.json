@@ -33,6 +33,9 @@
             "extensions": [".coc",".coco",".coconut",".py_template"],
             "firstLine": "^#!\\s*/?.*\\bcoconut[0-9.-]*\\b",
             "configuration": "./language-configuration.json"
+        },
+        {
+            "id": "coconut-injection"
         }],
         "grammars": [{
             "language": "coconut",
