@@ -1,3 +1,7 @@
+# Deprecated
+
+This extension is no longer maintained as all of its features are now included in the official [Sublime Coconut](https://github.com/evhub/sublime-coconut). Please install the [Coconut (Official)](https://marketplace.visualstudio.com/items?itemName=evhub.coconut) extension.
+
 # Coconut language support for Visual Studio Code
 
 A basic [Coconut language](https://github.com/evhub/coconut) support for [Visual Studio Code](https://code.visualstudio.com/), based on [Sublime Coconut](https://github.com/evhub/sublime-coconut).
@@ -23,6 +27,11 @@ Initial release.
 ### 1.0.1
 
 Fix Markdown fenced code block grammar injection.
+
+### 1.0.2
+
+Fix scope names of Markdown fenced code blocks language and attributes.
+Deprecate.
 
 ## Contributing
 

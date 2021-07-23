@@ -1,8 +1,8 @@
 {
     "name": "coconut",
-    "displayName": "Coconut",
+    "displayName": "Coconut (deprecated)",
     "description": "A basic Coconut language support for Visual Studio Code.",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "publisher": "kobarity",
     "author": {
         "name": "kobarity"
